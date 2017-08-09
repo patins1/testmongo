@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Polls/src/main/java"/>
+	<classpathentry kind="src" path="Polls/src/test/java"/>
+	<classpathentry kind="lib" path="Polls/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Polls/target/classes"/>
+</classpath>
